@@ -1,0 +1,3 @@
+# Configuración crítica de la aplicación
+DB_HOST=localhost
+DB_PORT=3306
